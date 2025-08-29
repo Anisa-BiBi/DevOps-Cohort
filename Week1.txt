@@ -1,0 +1,50 @@
+### Task 1: Using ChatGPT as Your Learning Assistant
+Scenario:
+You’re new to DevOps and will frequently encounter technical questions. ChatGPT can be your learning companion.
+Your Task:
+      •	Clearly write a ChatGPT prompt to help you understand the following concept:
+      “What is a protocol in networking? Explain with a simple real-life example.”
+      •	Take a screenshot of your interaction clearly showing:
+      •	Your detailed prompt (setting clear expectations).
+      •	ChatGPT's simplified response with an example.
+
+
+### Task 2: Internet and Networking
+Scenario:
+Your friend is launching an online bookstore named "EpicReads." He asked you to explain how users globally can access his website hosted in Finland.
+Your Task:
+      •	Write a short explanation (around 100-150 words), mentioning clearly:
+      •	How someone from the USA accesses a website hosted in Finland.
+      •	Clearly include and explain:
+      •	Packet Switching
+      •	IP Address
+      •	TCP/IP
+      •	HTTP/HTTPS
+
+
+### Task 3: Application Architecture & Stack
+Scenario:
+EpicReads bookstore has two app versions:
+•	Two-tier app (Frontend & Database)
+•	Three-tier app (Frontend, Backend & Database)
+Your Task:
+      •	Draw simple diagrams clearly showing both architectures (hand-drawn or using tools like draw.io).
+      •	Label each layer clearly: Frontend, Backend, Database.
+      •	List at least two common technologies or tools used for each layer in both architectures.
+
+
+### Task 4: Domain Name & DNS (Basic Concepts)
+Scenario:
+Your friend’s bookstore, EpicReads, is accessible via an IP address (52.172.142.222) at port 3000. He purchased the domain epicreads.com.
+Your Task:
+      •	Briefly explain (in your own words, 50-100 words max):
+      •	What DNS (Domain Name System) is.
+      •	Which DNS record type your friend should use to connect his domain to the given IP address, and why.
+
+
+### Task 5: Visual Studio Code Setup (Hands-on)
+Your Task:
+      •	Install Visual Studio Code (if not already installed).
+      •	Take a clear screenshot of your own VS Code environment showing:
+      •	Terminal open within VS Code, clearly running a basic command (e.g., pwd, dir, or ls).
+      •	Your selected VS Code theme clearly visible.
